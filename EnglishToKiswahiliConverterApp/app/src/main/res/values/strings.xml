@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EnglishToKiswahiliConverter</string>
+    <string name="enter_word">Enter Word:</string>
+    <string name="your_word">Your Word</string>
+    <string name="translate">Translate</string>
+</resources>
